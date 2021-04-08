@@ -99,7 +99,7 @@ Display the output on the screen
     E.G. ls -l
     Displays 
 
-#### 2. Foreground Processes
+#### 2. Underground Processes
 Hides the output from the screen <br>
 You can hide process fro being shown by adding `&` at the end.
     
